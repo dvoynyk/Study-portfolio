@@ -10,7 +10,6 @@ Contains my papers and scientific articles.
 
 ## Объектно-ориентированное программирование (II семестр)
 
-- [Текст КР](#)
 - [Исходный код проекта](https://github.com/dvoynyk/operations-based-on-signals-and-handlers.git)
 
 **Тема:** Моделирование работы принтера
